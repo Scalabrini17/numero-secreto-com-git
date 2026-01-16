@@ -1,5 +1,5 @@
 //Desafio 1 (sem ajuda)
-/*function calculoIMC(altura, peso) {
+function calculoIMC(altura, peso) {
     let imc = peso / (altura ** 2);
     return imc.toFixed(2); //.toFixed(2) retorna o valor com 2 casas decimais 
 }
@@ -72,4 +72,4 @@ function tabuada(numeroParaTabuada) {
 }
 
 let numeroParaTabuada = 5;
-tabuada(numeroParaTabuada);*/
+tabuada(numeroParaTabuada);

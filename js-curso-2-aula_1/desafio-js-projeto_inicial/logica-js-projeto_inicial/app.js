@@ -1,5 +1,5 @@
 //Dasafio 1
-/*function mensagemOla(){
+function mensagemOla(){
     console.log('Olá mundo!')
 }
 mensagemOla()
@@ -17,4 +17,4 @@ function dobroDoNumero(num){
     alert(`O dobro do número ${numero} é ${num}`)
 }
 let numero = 7
-dobroDoNumero(numero * 2)*/
+dobroDoNumero(numero * 2)
